@@ -24,8 +24,7 @@ def load_obj(name, data_path_load = 'obj/'):
 
 print('loading graph...')
 
-data_path = '/home/xiangnan/task_space_code/task_space_data/'
-#data_path = 'D:/CSH/stack_overflow/task_space_data/'
+data_path = 'data_files/task_space_data/'
 data_path_save = data_path + 'obj_tag_question_bipartite_core_space/'
 
 ###!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!图文件名
