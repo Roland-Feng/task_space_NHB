@@ -1,4 +1,4 @@
-# task_space_NHB
+# The task space analysis
 
 This is the code for paper https://arxiv.org/abs/2504.03581
 
