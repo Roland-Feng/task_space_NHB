@@ -28,7 +28,7 @@ The package required for Python is in the "environment.yaml".
 
 The required R packages are bipartite (version 2.21), fixest (version 0.12.1), stargazer (version 5.2.3), dplyr (version 1.0.10), mefa4 (version 0.3-9), data.table (version 1.17.8).
 
-Dependent on the Interset quality, it usually takes around one day to install all the packages.
+Dependent on the Interset quality, it usually takes short time to install all the packages.
 
 # Hardware Requirement
 
