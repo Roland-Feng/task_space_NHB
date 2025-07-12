@@ -30,6 +30,8 @@ The required R packages are bipartite (version 2.21), fixest (version 0.12.1), s
 
 Dependent on the Interset quality, it usually takes short time to install all the packages.
 
+We run the code on Linux or Windows 11. 
+
 # Hardware Requirement
 
 A GPU is required to run all the code.
