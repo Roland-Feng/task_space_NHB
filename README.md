@@ -2,7 +2,7 @@
 
 This is the code for paper https://arxiv.org/abs/2504.03581
 
-Right now this manuscript is submitted and the dataset link is only available for reviewers and editors. The dataset will be public available once the manuscript got accepted.
+Right now this manuscript is submitted and the dataset link is only available for reviewers and editors. The link for dataset is provided in the submitted manuscript. The dataset will be public available once the manuscript got accepted.
 
 # Before runing the programs:
 
@@ -21,3 +21,19 @@ Or you can run the Jupyter Notebooks in the directory "task_space_build_analysis
 The data processing and rebuilding is very time-consuming. It will take several days to finish running all the code.
 
 There are some parts involving api-keys and random functions. I comment them right now since they may generate different outputs. I will update them in the future.
+
+# Environment Requirement
+
+The package required for Python is in the "environment.yaml".
+
+The required R packages are bipartite (version 2.21), fixest (version 0.12.1), stargazer (version 5.2.3), dplyr (version 1.0.10), mefa4 (version 0.3-9), data.table (version 1.17.8).
+
+Dependent on the Interset quality, it usually takes around one day to install all the packages.
+
+# Hardware Requirement
+
+A GPU is required to run all the code.
+
+## License
+
+This project is released under the [Creative Commons Attribution 4.0 International License](LICENSE).
